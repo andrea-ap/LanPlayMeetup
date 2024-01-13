@@ -9,4 +9,4 @@ Lan Play Meetup is a matchmaking website for lan play, it includes:
 -There is a 10 minutes timer when you join a room, you are kicked when that timer reach 0, you can reset the timer to 10 minutes whit a button in any moment, this is done to prevent someone from entering a room, leave that in a tab in the browser forgotten and being counted in the player count in the room, this way, people that not longer actively want to play, are kicked and only ppl that currently want to play remain in the room  
   
   
-The website URL is https://lan-play-meetup.herokuapp.com
+
